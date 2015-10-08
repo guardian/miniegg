@@ -1,0 +1,4 @@
+{:name "miniegg"
+ :tc-parent "Discussion"
+ :git "git@github.com:nicl/miniegg.git"
+ :type :clojure}
